@@ -66,7 +66,8 @@ Prepare a detailed report on the following sensors with a focus on how **ROS (Ro
 * 📷 **Media:** Screenshots showing PlatformIO setup and a successful STM32 project build.
 
 ## 📦 Bonus Task
-* 📄 **Wokwi simulation:** make an STM simulation of your choice on wokwi.[wokwi](https://wokwi.com/)
+* 📄 **Wokwi simulation:** make an STM simulation of your choice on wokwi.(present your ideas before starting) .
+* [wokwi](https://wokwi.com/)
 
 
 # DEADLINE - 26/2/2026
