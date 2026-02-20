@@ -61,7 +61,7 @@ Prepare a detailed report on the following sensors with a focus on how **ROS (Ro
 ---
 
 ## 📦 Deliverables
-* 📄 **Detailed Report:** (PDF/Docx) covering IMU, LiDAR, Stereo Cameras (including ZED 2i), GPS, and with ROS integration and on other sensors mentioned above.
+* 📄 **Detailed Report:** (PDF/Docx) covering IMU, LiDAR, Stereo Cameras (including ZED 2i), GPS, and with ROS integration and on other sensors, motors and motor drivers mentioned above.
 
 * 📷 **Media:** Screenshots showing PlatformIO setup and a successful STM32 project build.
 
